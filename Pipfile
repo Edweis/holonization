@@ -14,6 +14,7 @@ ipdb = "*"
 matplotlib = "*"
 pylint = "*"
 pytest = "*"
+pyyaml = "*"
 
 [requires]
 python_version = "3.6"
